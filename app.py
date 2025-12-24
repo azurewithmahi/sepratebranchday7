@@ -1,6 +1,6 @@
 from flask import Flask
-import python2
-app = Flask(__name__)
+import python1
+app1 = Flask(__name__)
 
 @app.route("/")
 def home():
