@@ -1,5 +1,5 @@
 from flask import Flask
-import python1
+import python2
 app = Flask(__name__)
 
 @app.route("/")
